@@ -1,3 +1,3 @@
 #Learn GitHub
 
-This is a throwaway repo used to learn about working with Git and GitHub.Adding another sentence. And then another one. Just one more.
+This is a throwaway repo used to learn about working with Git and GitHub.Adding another sentence.
